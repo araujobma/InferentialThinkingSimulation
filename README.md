@@ -1,7 +1,8 @@
 # Inferential Thinking through Simulations (edx)
 
-Running locally the code for BerkeleyX Data8.2x on EDX platform [edx.org](https://www.edx.org/course/foundations-of-data-science-inferential-thinking-b)
+Running locally the code for BerkeleyX Data8.2x on EDX platform [edx.org](https://www.edx.org/course/foundations-of-data-science-inferential-thinking-b).
 
+[Book link](https://www.inferentialthinking.com/chapters/intro).
 ## Installation
 
 After installing [ANACONDA](https://docs.anaconda.com/anaconda/install/).
